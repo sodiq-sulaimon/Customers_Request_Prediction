@@ -26,10 +26,12 @@ A. To run the app on your local machine:
     pandas==2.1.3,
     flask==3.0.0,
     ** tensorflow==2.15.0
+      
     ----------------
     * I developed the app in a virtual environment that runs on Python 3.9.6, but I ran it directly on my local machine
     with python 3.11.5 and it ran perfectly. So I think any python3 should be fine.
-    ** tensorflow is required ONLY to run model.py and not app.py(flask app). app.py runs independently of model.py
+
+    * tensorflow is required ONLY to run model.py and not app.py(flask app). app.py runs independently of model.py
     ----------------
 3. To run the flask app:
     a. Ensure app.py and 'templates' are in the same directory
