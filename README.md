@@ -12,7 +12,7 @@ I used the parameters (weights and bias) from the trained model to run predictio
 The code for the model can be run by running the model.py file in the 'receipt_prediction' folder on a machine with the
 package requirements outlined in the **documtation.txt** file. 
 
-Please check **documtation.txt** for guide on how to run the app.
+Please check **documtation.txt** for guide on how to run the Flask app to generate predictions.
 
 PS: The model is deployed on Heroku at https://receipts-9150bcabee7e.herokuapp.com but I am currently having issued with the account so the app may not be accessible.
 
