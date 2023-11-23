@@ -19,10 +19,10 @@ A. To run the app on your local machine:
     The folder contains the following 6 files (app.py, model.py, Dockerfile, requirements.txt, documentation.txt, data_daily.csv)
     and 1 folder (templates). The 'templates' folder contains 2 html files (index.html, prediction.txt).
 2. The following libraries are required
-    * python 3.9.6
-    numpy==1.26.2
-    pandas==2.1.3
-    flask==3.0.0
+    * python 3.9.6,
+    numpy==1.26.2,
+    pandas==2.1.3,
+    flask==3.0.0,
     ** tensorflow==2.15.0
     ----------------
     * I developed the app in a virtual environment that runs on Python 3.9.6, but I ran it directly on my local machine
