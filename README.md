@@ -14,5 +14,6 @@ package requirements outlined in the **documtation.txt** file.
 
 Please check **documtation.txt** for guide on how to run the app.
 
+PS: The model is deployed on Heroku at https://receipts-9150bcabee7e.herokuapp.com but I am currently having issued with the account so the app may not be accessible.
 
 
