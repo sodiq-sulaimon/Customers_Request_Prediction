@@ -8,7 +8,7 @@ provided and built a linear regression model from scratch. The model was then tr
 I used the parameters (weights and bias) from the trained model to run predictions in the flask app.
 
 The code for the model can be run by running the model.py file in the 'receipt_prediction' folder on a machine with the
-package requirements outlined below. Please note that Flask is not required to run the model.
+package requirements outlined below. Please note that Flask is not required to run the model.py file.
 
 Part 2: Flask App
 
