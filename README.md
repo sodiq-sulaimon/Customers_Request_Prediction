@@ -14,6 +14,4 @@ package requirements outlined in the **documtation.txt** file.
 
 Please check **documentation.txt** for guide on how to run the Flask app to generate predictions.
 
-PS: The model is deployed on Heroku at https://receipts-9150bcabee7e.herokuapp.com but I am currently having issues with the account so the app may not be accessible.
-
 
