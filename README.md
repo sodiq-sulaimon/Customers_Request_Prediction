@@ -1,4 +1,4 @@
-### Receipts_Count_Prediction
+### Customer_Request_Prediction
 
 **Task:** 
 This project aims to help in the prediction of approximate number of receipts (think tickets/requests) to be expected in a specified period.
